@@ -1,0 +1,22 @@
+.circle-shrink {
+  position: absolute;
+  top:-45px;
+  left:-45px;
+  z-index:3;
+  width:130px;
+  height:130px;
+  background:#2033db;
+  border-radius:100%;
+}
+
+.container {
+  position: relative;
+  margin: 100px;
+}
+
+.circle {
+  width:90px;
+  height:90px;
+  background:pink;
+  border-radius:100%;
+}
